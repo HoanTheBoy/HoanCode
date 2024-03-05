@@ -232,8 +232,9 @@ padding-top: 1em;
     margin: 0;
 }
 .things__item img {
+    height: 400px;
     width: 40%;
-    padding-bottom: 0;
+    padding-bottom: 20px;
 }
 .things__item--heading {
     width: 45%;
