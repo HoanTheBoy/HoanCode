@@ -325,7 +325,7 @@ font-size: 1rem;
 #footer {
 overflow: hidden;
 position: relative;
-height: 100vh;
+height: 50vh;
 display: flex;
 align-items: center;
 }
