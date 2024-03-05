@@ -206,7 +206,9 @@ margin: 10em 0;
 }
 
 .things__item img {
-padding-bottom: 10px;
+height: 500px;
+width: 300px;
+padding-bottom: 5px;
 }
 
 .things__item--heading {
