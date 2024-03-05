@@ -253,17 +253,9 @@ padding-top: 1em;
 #footer {
 overflow: hidden;
 position: relative;
-height: 50vh;
+height: 30vh;
 display: flex;
 align-items: center;
-}
-
-.footer__img {
-position: absolute;
-top: 0;
-right: 0;
-transform: translateX(25%);
-z-index: -1;
 }
 
 .footer__heading {
